@@ -22,3 +22,5 @@ spreadOperator(miArray);
 
 let obj =  new MyClass("Hilca");
 obj.sayHi();
+
+// Una Clase que me permita gestionar las funciones aritmeticas
