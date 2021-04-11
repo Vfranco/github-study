@@ -1,3 +1,4 @@
+import { MyClass } from './classes.js';
 
 
 let librerias = ["Lib1", "Lib2", "Lib3"];
@@ -18,3 +19,6 @@ function spreadOperator(array) {
 
 let miArray = [1, 2, 4, 5];
 spreadOperator(miArray);
+
+let obj =  new MyClass("Hilca");
+obj.sayHi();
