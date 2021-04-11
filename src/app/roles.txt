@@ -1,0 +1,22 @@
+
+
+-- Frontend Developers : HTML - JS - CSS - Angular - Vue - React - Svelte - Javascript - NodeJS
+-- Backend Developers : PHP, C#, Java, Go, Python, Ruby, C++, NetCore, Laravel, Spring, Ruby On Rails, Django, NodeJS - MySQL, Postgres, Oracle, Maria
+-- FullStack Developers: Frontend + Backend 
+-- QA Automation Tester: Mocha, Karma, Jasmine, Jest - e2e - Cypress, Karma
+-- Mobile Developers - Android - iOS - Ionic - Flutter
+
+-- Las herramientas de trabajo
+    - github
+    - gitlab
+    - bitbucket
+    - AzureDevops
+    - CircleCI
+
+-- Habilidades Blandas
+    - SCRUM
+    - Kanban
+    - XP
+
+GIT : Sistema de Control de Versions
+GITHUB - Tool - Herramienta
