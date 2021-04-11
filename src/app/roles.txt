@@ -20,3 +20,10 @@
 
 GIT : Sistema de Control de Versions
 GITHUB - Tool - Herramienta
+
+git add . : agregar al stage los archivos no trackeados
+git commit -m "mensaje" : crea un commit para ser enviado al repositorio
+git push origin (branch) : envia los cambios al repositorio
+
+antes de enviar cualquier cambio lo ideal es siempre contrastar con master
+git pull origin master ó git merge origin master
