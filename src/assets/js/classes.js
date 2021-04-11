@@ -15,6 +15,11 @@ export class MyClass extends Signature {
     sayHi() {
         console.log("hi!", this.whoami);
         this.sayHIiAgain(this.whoami);
+        this.myName(this.whoami);
+    }
+
+    myName(who) {
+        console.log(who);
     }
 }
 
